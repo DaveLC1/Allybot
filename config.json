@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "accdave4@gmail.com",
+		"password": "iamtoogreat",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -18,7 +18,7 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [61552331310721],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
