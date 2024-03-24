@@ -1,19 +1,19 @@
 {
   "facebookAccount": {
     "email": "accdave4@gmail.com",
-    "password": "Bot000",
-    "2FASecret": "056216",
+    "password": "Davelc11",
+    "2FASecret": "",
     "i_user": "",
     "proxy": null,
-    "userAgent": "Mozilla/5.0 (Linux; Android 7; M2102J10SG) AppleWebKit/527.36 (KHTML, like Gecko) Chrome/99.0.0.0/525.33",
-    "intervalGetNewCookie": null,
+    "userAgent": "Mozilla/5.0 (HUAWEI; Android 10; M2102J10SG) AppleWebKit/527.36 (KHTML, like Gecko) Chrome/197.210.71.20",
+    "intervalGetNewCookies": null,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "adminOnly": {
-    "enable": false,
+    "enable": true,
     "ignoreCommand": []
   },
   "adminBot": [
@@ -68,8 +68,8 @@
   },
   "autoUptime": {
     "enable": true,
-    "timeInterval": 500,
-    "url": "https://554f55bc-525f-4768-bb7a-035a0ec55177-00-6yyffzb0uu5r.riker.replit.dev/",
+    "timeInterval": 5000,
+    "url": "",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
   "autoLoadScripts": {
@@ -136,4 +136,4 @@
     "autoReconnect": true,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   }
-  }
+}
