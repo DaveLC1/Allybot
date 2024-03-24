@@ -64,7 +64,7 @@ module.exports = {
 
    if (!prompt) {
 
-        await message.reply("Hey I am ༺❤︎Alias❤︎༻ Dave bot 🤭, please feel free to ask me questions dear🦥");
+        await message.reply("Hey I am ༺❤︎Ally❤︎༻ Dave bot 🤭, please feel free to ask me questions dear🦥");
 
         return;
 
